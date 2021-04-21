@@ -4,6 +4,7 @@
   "description": "Begin basic Hello World! app for Node",
   "arc": {
     "app": "hello-world",
+    "aws": { "runtime": "ruby2.7" },
     "http": [
       {
         "/": {
